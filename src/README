@@ -1,0 +1,15 @@
+
+To compile this program, set your working directory so that the challenge directory is visible and use javac:
+
+% javac challenge/Challenge.java
+
+In the same directory, run the program by passing your data file as the last argument:
+
+% java challenge.Challenge /tmp/my_word_list
+
+This program assumes that word list will be a new-line delimited text file. You should see output like this:
+
+
+% java challenge.Challenge /tmp/my_word_list
+antidisestablishmentarianisms:[an, ti, dis, establishmentarianisms]
+
