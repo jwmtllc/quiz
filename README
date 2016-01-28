@@ -1,0 +1,8 @@
+
+
+The program can be run using the provided word list or another file that contains a new-line delimited list of words:
+
+    % go build compound-word.go
+    % compound-word.go word.list
+    antidisestablishmentarianisms [an ti dis establishmentarianisms]
+
